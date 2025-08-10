@@ -1,16 +1,25 @@
-## Hi there 👋
+## Olá👋
 
-<!--
-**GleiceCarla/GleiceCarla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou a Gleice!
 
-Here are some ideas to get you started:
+💻🖱️👩🏻‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e Desenvolvedora Full Stack (em formação). Estou aprendendo e melhorando minhas habilidades em desenvolvimento de software e estou ansiosa para começar a trabalhar em projetos interessantes.
+
+## Habilidades 
+
+- Linguagens: Python, JavaScript (em aprendizado)
+
+
+## Objetivos
+- Aprender e melhorar minhas habilidades em desenvolvimento de software
+- Desenvolver aplicações web inovadoras e eficientes
+- Contribuir para projetos open-source e colaborar com outros desenvolvedores
+
+
+
+## Obrigada por visitar meu perfil!🙏🏻
+
+
+
